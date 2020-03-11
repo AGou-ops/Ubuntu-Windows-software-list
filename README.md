@@ -53,4 +53,23 @@
 * VMware for Linux
 * Chrome for Linux
 
+---
+
 ## Windows
+
+### 社交
+* Telegram
+
+### 终端管理器
+* MobaXterm
+
+### 科学上网客户端
+* ShadowsocksR(ss/ssr)
+* v2rayN(v2ray/trojan)
+
+### 其他
+* Listary(增强资源管理器)
+* FastSton Capture(截图神器)
+* OBS studio(录屏软件)
+* SpaceSniffer(可视化文件分析器),类似还有TreeSize
+* 右键管家
