@@ -45,7 +45,7 @@
 * Removable drive menu(在状态栏显示可移除的设备)
 * Topicons plus(个性化顶栏图标)  
 
-所有的Gnome插件以及主题尽在：https://www.pling.com/s/Gnome，https://www.gnome-look.org/
+所有的Gnome插件以及主题尽在：https://www.gnome-look.org/ 或者 https://www.pling.com/s/Gnome
 
 ### 其他
 * Deepin screenshot(截图软件)
