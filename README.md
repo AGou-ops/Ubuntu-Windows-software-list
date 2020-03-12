@@ -57,8 +57,12 @@
 
 ## Windows
 
-### 社交
+### 社交影音
 * Telegram
+* 爱奇艺万能联播(可以直接播放度盘视频)
+* potplayer(本地影音播放器)
+* OBS studio(录屏软件)
+
 
 ### 终端管理器
 * MobaXterm
@@ -67,9 +71,16 @@
 * ShadowsocksR(ss/ssr)
 * v2rayN(v2ray/trojan)
 
-### 其他
+### 生产力
 * Listary(增强资源管理器)
+* QTTabBar(多窗口文件管理器) 
+* quicker(鼠标增强软件)
+* 快贴(跨平台剪切板)
+* QuickLook(桌面快速预览工具)
 * FastSton Capture(截图神器)
-* OBS studio(录屏软件)
+
+### 系统相关
+* file sync(磁盘对拷)
 * SpaceSniffer(可视化文件分析器),类似还有TreeSize
 * 右键管家
+* **Geek Uninstaller(很彻底的软件卸载器)**
