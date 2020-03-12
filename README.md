@@ -78,6 +78,7 @@
 * 快贴(跨平台剪切板)
 * QuickLook(桌面快速预览工具)
 * FastSton Capture(截图神器)
+* sticker(桌面便签小工具)
 
 ### 系统相关
 * file sync(磁盘对拷)
