@@ -1,4 +1,4 @@
-[Chrome插件备份](Chrome%20Extensions/README.md)   |   [Chrome书签备份](./bookmarks_2020-3-15.html)
+[Chrome插件备份](Chrome%20Extensions/README.md)   |   [Chrome书签备份](./bookmarks_2020-3-15.html) | [QTTabBar Config](QTTabBar%20Conf/QTTabBarConfig-2020-3-17.xml)
 # Ubuntu与Windows系统软件备份
 ## Ubuntu
 
@@ -73,8 +73,9 @@
 * v2rayN(v2ray/trojan)
 
 ### 生产力
-* Listary(增强资源管理器)
-* QTTabBar(多窗口文件管理器) 
+* **WGestures(全局鼠标手势)**
+* **Listary(增强资源管理器)**
+* **QTTabBar(多窗口文件管理器)**
 * quicker(鼠标增强软件)
 * 快贴(跨平台剪切板)
 * QuickLook(桌面快速预览工具)
