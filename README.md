@@ -10,6 +10,7 @@
 
 ### 娱乐影音
 * Netease Music(网易云音乐)
+* 洛雪音乐
 * VLC(强大的视频播放器)
 
 ### 笔记
@@ -33,6 +34,14 @@
 * gThumb(图片管理器)
 * Grub Customizer(图形化Grub管理器)
 * Boot Repair(引导修复工具)
+
+### 方便的小工具
+
+* ranger(终端文件管理器)
+* transh-cli(回收站)
+* ncdu(磁盘空间)
+* neofetch(查看系统相关信息)
+* Ulanucher(快速启动工具条)
 
 ### Gnome主题/插件
 目前我用的主题是`Flat-Remix-GTK-Blue-Dark`，shell是`Flat-Remix-Dark`
