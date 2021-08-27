@@ -15,7 +15,7 @@
 
 ### 笔记
 * Typora
-* Indicate(桌面便签)
+<!-- * Indicate(桌面便签) -->
 
 ### IDE
 * Visual Studio Code
@@ -34,6 +34,14 @@
 * gThumb(图片管理器)
 * Grub Customizer(图形化Grub管理器)
 * Boot Repair(引导修复工具)
+* Solaar(Logitech罗技Ubuntu接收器连接工具) 
+
+```bash
+# 安装命令
+udo add-apt-repository ppa:daniel.pavel/solaar
+sudo apt-get update 
+sudo apt-get install solaar   
+```
 
 ### 方便的小工具
 
@@ -60,8 +68,7 @@
 ### 其他
 * Deepin screenshot(截图软件)
 * 搜狗输入法 for Linux
-* VMware for Linux
-* Chrome for Linux
+* Qv2ray(THE END)
 
 ---
 
