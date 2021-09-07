@@ -50,6 +50,15 @@ sudo apt-get install solaar
 * ncdu(磁盘空间)
 * neofetch(查看系统相关信息)
 * Ulanucher(快速启动工具条)
+* indicator stickynotes(桌面小便签)
+
+```bash
+# 安装命令
+sudo add-apt-repository ppa:umang/indicator-stickynotes
+sudo apt-get update 
+sudo apt-get install indicator-stickynotes 
+```
+
 
 ### Gnome主题/插件
 目前我用的主题是`Flat-Remix-GTK-Blue-Dark`，shell是`Flat-Remix-Dark`
