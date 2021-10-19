@@ -38,7 +38,7 @@
 
 ```bash
 # 安装命令
-udo add-apt-repository ppa:daniel.pavel/solaar
+sudo add-apt-repository ppa:daniel.pavel/solaar
 sudo apt-get update 
 sudo apt-get install solaar   
 ```
@@ -51,6 +51,7 @@ sudo apt-get install solaar
 * neofetch(查看系统相关信息)
 * Ulanucher(快速启动工具条)
 * indicator stickynotes(桌面小便签)
+* Barrier(跨平台键鼠统一)
 
 ```bash
 # 安装命令
